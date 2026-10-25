@@ -38,7 +38,7 @@
     "url": "git+https://github.com/fuzzley/fSolitaire.git"
   },
   "author": "Andrey Gavel",
-  "license": "GPL-3.0-only",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/fuzzley/fSolitaire/issues"
   },

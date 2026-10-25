@@ -71,6 +71,6 @@ Agent configuration and reusable skills live in `.agents/skills/`. Run `yarn ski
 
 ## License
 
-This project source code is licensed under the [GNU General Public License v3.0 only](LICENSE).
+This project source code is licensed under the [GNU General Public License v3.0 or later](LICENSE).
 
 The playing card artwork is [Vector Playing Cards](https://sourceforge.net/projects/vector-cards/) by Chris Aguilar, copyright 2011, used under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html). See [NOTICE](NOTICE) for the files it covers and for how to substitute a different deck.

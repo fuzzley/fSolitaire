@@ -1,5 +1,8 @@
 # fSolitaire
 
+> [!NOTE]
+> This code was branched off into [fuzzley-games](https://github.com/fuzzley/fuzzley-games) in October 2026, and the newest version lives there, as the Solitaire Collection in [`frontend/games/solitaire/`](https://github.com/fuzzley/fuzzley-games/tree/main/frontend/games/solitaire). This repository keeps the code as it was when it branched; the two may diverge.
+
 A browser-based Solitaire game engine supporting multiple solitaire variants, built with [Phaser 4](https://phaser.io/) canvas rendering, an [Angular 22](https://angular.dev/) application shell, and [Sass](https://sass-lang.com/) for UI styling.
 
 The [latest version of the game](https://fuzzley.games/play/solitaire/) is hosted at https://fuzzley.games/play/solitaire/.
